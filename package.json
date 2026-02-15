@@ -31,13 +31,13 @@
   ],
   "devDependencies": {
     "buffer-from": "^1.1.1",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "mocha": "^3.5.3",
     "nyc": "^17.1.0",
     "serve-static": "^1.12.3",
     "ssestream": "^1.0.0",
     "standard": "^10.0.2",
-    "webpack": "^3.5.6"
+    "webpack": "^5.0.0"
   },
   "scripts": {
     "test": "mocha --reporter spec && standard",
